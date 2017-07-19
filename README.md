@@ -1,3 +1,3 @@
 # Project-Euler
 All of my programs and data sets for my progress in Project Euler.
-I'm a sophomore computer science and engineering student at The Ohio State University.
+I'm a sophomore in the chemical engineering department at The Ohio State University but I have intentions on majoring in computer science and engineering once I fix this GPA issue I'm having. Was very badly taught Matlab in my fundamentals of engineering course my first semester of college, took Programming in C++ my second semester, and taught myself Python this summer via Code Academy. I often feel overwhelmed at how much I don't know in regards to programming and data structures (only got into computers and programming in Spring 2017), but I know there's time to learn.
